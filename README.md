@@ -14,7 +14,12 @@
     <a alt="Supports Folia" title="Go to Folia's download site" href="https://papermc.io/downloads/folia">
         <img alt="Supports Folia" src="https://img.shields.io/badge/Supports-Folia-green" /></a>
     <a alt="Supports PurPur" title="Go to Purpur's download site" href="https://purpurmc.org/download/purpur">
-        <img alt="" src="https://img.shields.io/badge/Supports-PurPur-a947ff" /></a>
+        <img alt="Supports Purpur" src="https://img.shields.io/badge/Supports-PurPur-a947ff" /></a>
+</p>
+
+<p align="center">
+    <a alt="Ko-Fi Donation Link" title="Support me on Ko-Fi" href="https://ko-fi.com/Y8Y1RKLT1">
+       <img alt="Ko-Fi Donation Banner" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
 </p>
 
 # ChunkyOffline Plugin
